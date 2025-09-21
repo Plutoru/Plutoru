@@ -1,9 +1,9 @@
 ## Hi there! Thank for checking out my profile! 👋
-_______________________________________________________________
+
 ## <h4> 🤔About me: </h4>
 
 My name is Zach. You can also call me by my github name as "Plutoru" or Pluto in short. I'm currently learning and exploring more about the programming world! 👨‍💻
-_______________________________________________________________
+
 ## <h4> More about me: </h4>
 * 🌏 I'm from Philippines
 * 👨‍🦰 Gender and Pronouns: Male. He/Him
