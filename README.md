@@ -3,7 +3,7 @@
 ## <h4> 🤔About me: </h4>
 
 My name is Zach. You can also call me by my github name as "Plutoru" or Pluto in short. I'm currently learning and exploring more about the programming world! 👨‍💻
-
+_______________________________________________________________
 ## <h4> More about me: </h4>
 * 🌏 I'm from Philippines
 * 👨‍🦰 Gender and Pronouns: Male. He/Him
@@ -39,4 +39,19 @@ ________________________________________________________________
 Me when i finally fixed the error that is ruining my life for 10 hours staright:
 <div align="left"> 
   <img height="300" src="https://github.com/Plutoru/Plutoru/blob/main/Lookatmeimchillin.gif"/>  
+</div>
+
+Jane Doe from ZZZ 🐀
+<div align="center"> 
+  <img height="100" src="https://github.com/Plutoru/Plutoru/blob/main/Loading_janedoezzz.gif"/>
+  <img height="100" src="https://github.com/Plutoru/Plutoru/blob/main/Cutechibi_janedoezzz1.jpg"/>
+  <img height="100" src="https://github.com/Plutoru/Plutoru/blob/main/Cutechibi_janedoezzz2.jpg"/>
+</div>
+
+________________________________________________________________
+
+Thanks for stopping by!
+
+<div align="center"> 
+  <img height="300" src="https://github.com/Plutoru/Plutoru/blob/main/Absolutecinema_Janedoezzz.gif/>
 </div>
