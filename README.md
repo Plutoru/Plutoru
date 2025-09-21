@@ -41,7 +41,10 @@ Me when i finally fixed the error that is ruining my life for 10 hours staright:
   <img height="300" src="https://github.com/Plutoru/Plutoru/blob/main/Lookatmeimchillin.gif"/>  
 </div>
 
+<div>
 Jane Doe from ZZZ 🐀
+</div>
+
 <div align="center"> 
   <img height="300" src="https://github.com/Plutoru/Plutoru/blob/main/Loading_janedoezzz.gif"/>
   <img height="300" src="https://github.com/Plutoru/Plutoru/blob/main/Cutechibi_janedoezzz1.jpg"/>
@@ -53,5 +56,5 @@ ________________________________________________________________
 Thanks for stopping by!
 
 <div align="center"> 
-  <img height="200" src="https://github.com/Plutoru/Plutoru/blob/main/Absolutecinema_Janedoezzz.gif/>
+  <img height="200" src="https://github.com/Plutoru/Plutoru/blob/main/Absolutecinema_Janedoezzz.gif"/>
 </div>
