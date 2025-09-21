@@ -53,8 +53,8 @@ Jane Doe from ZZZ 🐀
 
 ________________________________________________________________
 
-Thanks for stopping by!
+Thanks for stopping by! 😊
 
 <div align="center"> 
-  <img height="200" src="https://github.com/Plutoru/Plutoru/blob/main/Absolutecinema_Janedoezzz.gif"/>
+  <img height="500" src="https://github.com/Plutoru/Plutoru/blob/main/Absolutecinema_Janedoezzz.gif"/>
 </div>
