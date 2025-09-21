@@ -43,9 +43,9 @@ Me when i finally fixed the error that is ruining my life for 10 hours staright:
 
 Jane Doe from ZZZ 🐀
 <div align="center"> 
-  <img height="100" src="https://github.com/Plutoru/Plutoru/blob/main/Loading_janedoezzz.gif"/>
-  <img height="100" src="https://github.com/Plutoru/Plutoru/blob/main/Cutechibi_janedoezzz1.jpg"/>
-  <img height="100" src="https://github.com/Plutoru/Plutoru/blob/main/Cutechibi_janedoezzz2.jpg"/>
+  <img height="300" src="https://github.com/Plutoru/Plutoru/blob/main/Loading_janedoezzz.gif"/>
+  <img height="300" src="https://github.com/Plutoru/Plutoru/blob/main/Cutechibi_janedoezzz1.jpg"/>
+  <img height="300" src="https://github.com/Plutoru/Plutoru/blob/main/Cutechibi_janedoezzz2.jpg"/>
 </div>
 
 ________________________________________________________________
@@ -53,5 +53,5 @@ ________________________________________________________________
 Thanks for stopping by!
 
 <div align="center"> 
-  <img height="300" src="https://github.com/Plutoru/Plutoru/blob/main/Absolutecinema_Janedoezzz.gif/>
+  <img height="200" src="https://github.com/Plutoru/Plutoru/blob/main/Absolutecinema_Janedoezzz.gif/>
 </div>
