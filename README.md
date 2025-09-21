@@ -37,13 +37,11 @@ ________________________________________________________________
 <h3> 😆 Silly Pictures and Gifs section </h3>
 
 Me when i finally fixed the error that is ruining my life for 10 hours staright:
-<div align="left"> 
+<div align="center"> 
   <img height="300" src="https://github.com/Plutoru/Plutoru/blob/main/Lookatmeimchillin.gif"/>  
 </div>
 
-<div>
 Jane Doe from ZZZ 🐀
-</div>
 
 <div align="center"> 
   <img height="300" src="https://github.com/Plutoru/Plutoru/blob/main/Loading_janedoezzz.gif"/>
