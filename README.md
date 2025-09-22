@@ -1,4 +1,4 @@
-## Hi there! Thank for checking out my profile! 👋
+## Hi there! Thanks for checking out my profile! 👋
 
 ## <h4> 🤔About me: </h4>
 
@@ -34,7 +34,7 @@ ________________________________________________________________
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" /> 
 </div>
 
-<h3> 😆 Silly Pictures and Gifs section </h3>
+<h3> 😆 Silly Pictures and Gifs Section </h3>
 
 Me when i finally fixed the error that is ruining my life for 10 hours staright:
 <div align="center"> 
@@ -51,7 +51,7 @@ Jane Doe from ZZZ 🐀
 
 ________________________________________________________________
 
-Thanks for stopping by! 😊
+Thanks for stopping by! Have a great day/night! 😊
 
 <div align="center"> 
   <img height="500" src="https://github.com/Plutoru/Plutoru/blob/main/Absolutecinema_Janedoezzz.gif"/>
