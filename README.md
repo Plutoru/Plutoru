@@ -17,21 +17,21 @@ Click here for a surprise! → <a href="https://media.tenor.com/WsWej1C3ePYAAAAM
 ________________________________________________________________
 ## <h3> ⌨️ Programming Languages i know </h3>
 <div align = "center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="C++" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Dart_programming_language_logo_icon.svg/2048px-Dart_programming_language_logo_icon.svg.png" height="60" alt="Dart" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" />
-  <img src="https://img.icons8.com/?size=512&id=21278&format=png" height="60" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="C++" title="C++"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Dart_programming_language_logo_icon.svg/2048px-Dart_programming_language_logo_icon.svg.png" height="60" alt="Dart" title="Dart" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" title="HTML" />
+  <img src="https://img.icons8.com/?size=512&id=21278&format=png" height="60" alt="CSS" title="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" title="Javascript" /> 
 </div>
 
 ________________________________________________________________
 
 ## <h3> 🧠 Programming Languages i'm currently trying to master </h3>
 <div align = "center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" />
-  <img src="https://img.icons8.com/?size=512&id=21278&format=png" height="60" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" title="HTML" />
+  <img src="https://img.icons8.com/?size=512&id=21278&format=png" height="60" alt="CSS" title="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" title="Javascript" /> 
 </div>
 
 <h3> 😆 Silly Pictures and Gifs Section </h3>
